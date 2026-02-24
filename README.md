@@ -1,7 +1,7 @@
 
 # Hey, I'm Eslyn!
 
-👤 I’m a systems engineering student, I like to improve my coding skills. I want to learn new things and know more about this world.
+👤 I’m a systems engineering student
 
 📍 Costa Rica 🇨🇷
 
