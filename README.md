@@ -29,18 +29,6 @@ Passionate about software development, systems design, and problem-solving. I lo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Eslyn19&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eslyn19&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🔨 Building robust backend systems
