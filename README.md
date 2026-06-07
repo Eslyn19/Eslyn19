@@ -1,43 +1,61 @@
-# 💫 About Me
+<div align="center">
 
-**Systems Engineering Student from Costa Rica 🇨🇷**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:1E1E1E,100:3A3A3A&text=Hey%20Everyone!%20👋&fontColor=FFFFFF&fontSize=65&animation=fadeIn"/>
 
-Passionate about software development, systems design, and problem-solving. I love building robust applications and continuously learning new technologies.
+<table align="center">
+<tr>
 
----
+<td width="65%" align="center">
 
-## 🌐 Connect With Me
+<img
+src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"
+width="100%"
+/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:andresjara479@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Eslyn19)
+</td>
 
----
+</tr>
+</table>
 
-## 💻 Tech Stack
+</div>
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## About Me
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+```yaml
+name: Andrés Jara
 
----
+location: Costa Rica
 
-## 🎯 What I'm Currently Working On
+education:
+  - Systems Engineering Student
 
-- 🔨 Building robust backend systems
-- 📚 Deepening knowledge in software architecture
-- 🚀 Contributing to open-source projects
+focus:
+  - Backend Development
+  - Software Architecture
+  - System Design
 
----
+currently_learning:
+  - PHP
+  - MySQL
+  - Docker
 
-## 📫 Let's Connect!
+goal:
+  - Build scalable and maintainable software
 
-Feel free to reach out if you'd like to collaborate or chat about tech!
+```
 
+<div align="center">
+
+## Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,java,html,css,git,docker,vscode,c,cpp" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111111,50:1E1E1E,100:3A3A3A"/>
+
+</div>
