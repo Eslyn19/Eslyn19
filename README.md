@@ -4,7 +4,6 @@
 
 <table align="center">
 <tr>
-
 <td width="65%" align="center">
 
 <img
@@ -13,7 +12,6 @@ width="100%"
 />
 
 </td>
-
 </tr>
 </table>
 
@@ -41,21 +39,14 @@ currently_learning:
 
 goal:
   - Build scalable and maintainable software
-
 ```
 
 <div align="center">
 
-## Technologies
+<h2>Technologies</h2>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,java,html,css,git,docker,vscode,c,cpp" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111111,50:1E1E1E,100:3A3A3A"/>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eslyn19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
