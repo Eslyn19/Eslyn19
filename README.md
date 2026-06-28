@@ -43,8 +43,8 @@
 
 **Databases**
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="48" height="48" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" height="48" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
 
 ## GitHub Stats
 
@@ -52,9 +52,6 @@
     <tr>
         <td width="33%" valign="top">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eslyn19&theme=github_dark" alt="GitHub Stats Card" width="100%"/>
-        </td>
-        <td width="33%" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=Eslyn19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
         </td>
         <td width="34%" valign="top">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eslyn19&theme=github_dark" alt="Top Languages by Repo" width="100%"/>
