@@ -61,24 +61,24 @@
 
 ## Latest Projects
 
-| Proyecto | Descripcion | Tecnologias |
-|----------|-------------|-------------|
-| **Backend API** | API RESTful escalable con arquitectura limpia | Node.js, Express, MySQL |
-| **Sistema Distribuido** | Microservicios con Docker y orquestacion | Docker, Kubernetes, Java |
-| **Frontend App** | Aplicacion React moderna y responsiva | React, HTML5, CSS3 |
+| Project | Description | Technologies |
+----------|-------------|-------------|
+**Backend API** | Scalable RESTful API with a clean architecture | Node.js, Express, MySQL |
+**Distributed System** | Microservices with Docker and orchestration | Docker, Kubernetes, Java |
+**Frontend App** | Modern and responsive React application | React, HTML5, CSS3 |
 
 ## Goals & Learning Path
 
-- Dominar PHP y MySQL
-- Profundizar en Docker y containerizacion
-- Implementar patrones SOLID en proyectos
-- Contribuir a proyectos open source
-- Arquitectura de microservicios
-
+- Master PHP and MySQL
+- Gain in-depth knowledge of Docker and containerization
+- Implement SOLID patterns in projects
+- Contribute to open source projects
+- Microservices architecture
+- 
 ## Get In Touch
 
 [<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" alt="GitHub"/>](https://github.com/Eslyn19)
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="LinkedIn"/>](https://linkedin.com/in/andres-jara)
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/eslyn-jara-calderon-4783083b1/)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=10&color=0:FFB3BA,20:FFDFBA,50:FFFFBA,75:BAFFC9,100:BAE1FF&text=&fontColor=2D2D2D&fontSize=70&fontAlignY=5&animation=fadeIn" alt="footer" width="100%"/>
