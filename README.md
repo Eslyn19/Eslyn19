@@ -34,17 +34,17 @@
 **Tools**
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" height="48" alt="Git"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="React"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="VS Code"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="48" height="48" alt="Bash"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="48" height="48" alt="Azure"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="React"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js"/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" width="48" height="48" alt="Supabase"/>
 
 ## GitHub Stats
 
@@ -63,9 +63,9 @@
 
 | Project | Description | Technologies |
 ----------|-------------|-------------|
-**Backend API** | Scalable RESTful API with a clean architecture | Node.js, Express, MySQL |
-**Distributed System** | Microservices with Docker and orchestration | Docker, Kubernetes, Java |
-**Frontend App** | Modern and responsive React application | React, HTML5, CSS3 |
+**Quiniela-App** | Scalable RESTful API with a clean architecture | Node.js, Express, SQL Server 2022 |
+**Proyecto-Redes-Web** | Microservices with Docker and orchestration | Docker, Kubernetes, Python |
+**FullStack App** | Modern and responsive React application | React, HTML5, CSS3, SpringBoot |
 
 ## Goals & Learning Path
 
@@ -74,7 +74,7 @@
 - Implement SOLID patterns in projects
 - Contribute to open source projects
 - Microservices architecture
-- 
+
 ## Get In Touch
 
 [<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" alt="GitHub"/>](https://github.com/Eslyn19)
