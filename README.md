@@ -9,7 +9,7 @@
     <tr>
         <td valign="middle">
             I'm Andres Jara, a Systems Engineering student in Costa Rica focused on backend development, software architecture and system design.
-            I am currently learning PHP, MySQL, Docker, MongoDB, JavaScript and security, with the goal of building scalable and maintainable software.
+            I am currently learning PHP, MySQL, Docker, MongoDB, JavaScript and security, with the goal of improving myself in new topics
         </td>
         <td valign="middle" width="180">
             <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" alt="About Me GIF"/>
