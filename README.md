@@ -65,14 +65,15 @@
 ----------|-------------|-------------|
 **Quiniela-App** | Scalable RESTful API with a clean architecture | Node.js, Express, SQL Server 2022 |
 **Proyecto-Redes-Web** | Microservices with Docker and orchestration | Docker, Kubernetes, Python |
-**FullStack App** | Modern and responsive React application | React, HTML5, CSS3, SpringBoot |
+**Microservices-api-gateway** | Scalable microservices architecture with centralized API Gateway, JWT auth and async messaging | MySQL, Docker, Redis, RabbitMQ
+
+
 
 ## Goals & Learning Path
 
 - Master PHP and MySQL
 - Gain in-depth knowledge of Docker and containerization
 - Implement SOLID patterns in projects
-- Contribute to open source projects
 - Microservices architecture
 
 ## Get In Touch
